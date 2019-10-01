@@ -8,6 +8,8 @@ int main(){
     
     std::cout<<"Wicked cool number fam!"<<std::endl;
     
+    std::cout << "That really is, " << favourite_number<< "really is my fave number"<<std::endl;
+    
     
     return 0;
 }
